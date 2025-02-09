@@ -1,1 +1,1 @@
-#Simple Programming Language Made by Typescript
+Simple Programming Language Made by Typescript
